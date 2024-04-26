@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Vikram</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashvikram30" alt="yashvikram30" /></a> </p>
 
 - 🌱 I’m currently learning **Python and Backend Development.**
 
