@@ -1,5 +1,12 @@
 # 💫 About Me:
-I am currently learning Python and Backend Development, along with Data Structures. <br>I am interested in the fields of Development and Data Science.<br>I am currently a student at Indian Institute of Information Technology, Nagpur.<br><br>
+👋 Hello there! I'm Yash Vikram, a passionate frontend developer with a love for creating websites. I enjoy learning new technologies and constantly seek opportunities to learn and grow in this ever-evolving field.
+
+### 💼 Professional Background
+
+- 🔭 I’m currently a student in Indian Institute of Information Technology, Nagpur.
+- 🌱 I’m currently learning Python and Backend Development.
+- 💬 Ask me about Data Structures/C++.
+- 📫 How to reach me: yashvikram6@gmail.com<br><br>
 
 
 ## 🌐 Socials:
