@@ -6,7 +6,13 @@
 - 🔭 I’m currently a student in Indian Institute of Information Technology, Nagpur.
 - 🌱 I’m currently learning Python and Backend Development.
 - 💬 Ask me about Data Structures/C++.
-- 📫 How to reach me: yashvikram6@gmail.com<br><br>
+- 📫 How to reach me: yashvikram6@gmail.com
+
+### 💡 Fun Fact
+
+I started coding since the age of 12!
+
+<br><br>
 
 
 ## 🌐 Socials:
