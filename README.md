@@ -25,9 +25,6 @@ I started coding since the age of 12!
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=yashvikram30&icon=5&color=6)](https://visitcount.itsvg.in)
 
