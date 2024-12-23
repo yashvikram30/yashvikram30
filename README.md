@@ -20,7 +20,7 @@ I started coding since the age of 12!
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yashvikram30&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvikram30&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+[![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashvikram30)](https://github.com/yashvikram30/github-readme-stats)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
