@@ -10,7 +10,7 @@
 
 ### 💡 Fun Fact
 
-I started coding since the age of 12!
+I wrote my first line of code at the age of 12! :D
 <br><br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashvikram30) 
