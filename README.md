@@ -22,11 +22,11 @@
 
 ## GitHub Stats:
 [![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashvikram30&theme=merko&hide_border=false)](https://github.com/yashvikram30/github-readme-stats)
-![](https://github-readme-streak-stats.herokuapp.com/?user=yashvikram30&theme=merko&hide_border=false)
+![My streak](https://github-readme-streak-stats.herokuapp.com/?user=yashvikram30&theme=merko&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvikram30&theme=merko&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yashvikram30&icon=5&color=6)](https://visitcount.itsvg.in)
+[![Visit Counts](https://visitcount.itsvg.in/api?id=yashvikram30&icon=5&color=6)](https://visitcount.itsvg.in)
 
   ## You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yashvikram) 
