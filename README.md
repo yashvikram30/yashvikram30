@@ -22,7 +22,7 @@
 
 ## GitHub Stats:
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashvikram30&theme=merko&hide_border=false)
-![My streak](https://github-readme-streak-stats.herokuapp.com/?user=yashvikram30&theme=merko&hide_border=false)
+![My streak][(https://github-readme-streak-stats.herokuapp.com/?user=yashvikram30&theme=merko&hide_border=false)]
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvikram30&theme=merko&layout=compact)
 
   ## You can help me by Donating
