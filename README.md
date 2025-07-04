@@ -12,7 +12,7 @@
 - 🔭 I’m currently a student in Indian Institute of Information Technology, Nagpur.
 - 🌱 I’m currently learning Solana Development.
 - 💬 Ask me about Next.js, Backend Development and Solana Programs.
-- 📫 How to reach me: workwithyash30@gmail.com
+- 📫 How to reach me: yashvikram8250@gmail.com
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashvikram30) 
