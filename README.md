@@ -1,33 +1,58 @@
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Javascript"/>
 </p>
 
-## About Me:
+## About Me
 
- Hello there! I'm Yash Vikram, a passionate developer with a love for creating websites. I enjoy learning new technologies and constantly seek opportunities to learn and grow in this ever-evolving field. I am proficient in backend as well as Solana Development.
+Hey, I'm Yash. Right now I'm interning at SMS Datatech in Tokyo, working on their internal monitoring platform with Django, Celery and React. I'm also a CS student at IIIT Nagpur, graduating in 2027, and I like moving around the stack, backend systems mostly, some React, and Solana when I get the chance.
 
-## Professional Background:
+- 🔭 Interning at SMS Datatech in Tokyo, working on itscoco, a Django/Celery/React monitoring platform
+- 🌱 Learning Japanese and figuring out what comes after graduation, hopefully something in Japan
+- 💬 Ask me about Next.js, backend systems or Solana programs
+- 📫 Reach me at yashvikram8250@gmail.com
 
-- 🔭 I’m currently a student in Indian Institute of Information Technology, Nagpur
-- 🌱 I’m currently learning Solana Development
-- 💬 Ask me about Next.js, Backend Development and Solana Programs
-- 📫 How to reach me: yashvikram8250@gmail.com
+## What I'm Building
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashvikram30) 
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| **LegalEase** | Legal tech platform for Indian users, RAG based document analysis, real auth, LLM features | Next.js, TypeScript | [Repo](https://github.com/yashvikram30/legalease) |
+| **Ripple** | Change monitoring tool I built for my own job hunt, tracks listings, diffs content, flags changes with an LLM | Django, Celery, Redis, React, Postgres | Private for now |
+| **Grafi AI** | Canva style on-chain design tool with encrypted storage, built for ETHGlobal's Sui track | Move, Walrus, Seal | [Repo](https://github.com/yashvikram30/grafi-ai) |
+| **tusk-memory** | TypeScript SDK for shared memory between AI agents, plus permanent report archiving on Walrus | TypeScript, Sui, Walrus | [Repo](https://github.com/yashvikram30/tusk-memory) |
+| **shout2swap** | Built at the Athena x Monad Hacker House, you shout into your mic to swap from a pool of random tokens | React, TypeScript, Monad | [Repo](https://github.com/yashvikram30/shout2swap) |
+| **modern_portfolio** | A developer portfolio template with animated sections for projects, skills and contact | Next.js, Tailwind | [Repo](https://github.com/yashvikram30/modern_portfolio) |
+| **saas-landing-page** | Animated SaaS landing page template built to be a quick starting point for product sites | Next.js, TypeScript, Framer Motion | [Repo](https://github.com/yashvikram30/saas-landing-page) |
 
-## Tech Stack:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white) ![React.js](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![PostGreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?style=for-the-badge&logo=shadcnui&logoColor=fff)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![C++](	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=fff) [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&style=for-the-badge&logo=rust&logoColor=white)](#) ![Anchor](https://img.shields.io/badge/Anchor-%23111111.svg?style=for-the-badge&logo=solana&logoColor=white)  ![Solana Web3.js](https://img.shields.io/badge/Solana%20Web3.js-%23000000.svg?style=for-the-badge&logo=solana&logoColor=white)  ![Solana CLI](https://img.shields.io/badge/Solana%20CLI-%23000000.svg?style=for-the-badge&logo=solana&logoColor=white)  ![Anchor-Bankrun](https://img.shields.io/badge/Anchor%20Bankrun-%23111111.svg?style=for-the-badge&logo=solana&logoColor=white)
+## Socials
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashvikram30)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yashvikram.me)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/100xYash)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yash.escapes)
 
+## Tech Stack
 
-## GitHub Stats:
+**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?style=for-the-badge&logo=shadcnui&logoColor=fff)
+
+**Backend & Data**
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff)
+
+**Blockchain**
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=fff) ![Anchor](https://img.shields.io/badge/Anchor-%23111111.svg?style=for-the-badge&logo=solana&logoColor=white) ![Solana Web3.js](https://img.shields.io/badge/Solana%20Web3.js-%23000000.svg?style=for-the-badge&logo=solana&logoColor=white)
+
+**Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+
+## GitHub Stats
+
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashvikram30&theme=merko&hide_border=false)
-![My streak](https://github-readme-streak-stats.herokuapp.com/?user=yashvikram30&theme=merko&hide_border=false)
+![My streak](https://streak-stats.demolab.com/?user=yashvikram30&theme=merko&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvikram30&theme=merko&layout=compact)
 
-  ## You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yashvikram) 
-
+<p align="center">
+<a href="https://buymeacoffee.com/yashvikram"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee"/></a>
+</p>
