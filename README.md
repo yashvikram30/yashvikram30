@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Javascript"/>
 </p>
 
-## About Me
+## 🚀 About Me
 
 Hey, I'm Yash. Right now I'm interning at SMS Datatech in Tokyo, working on their internal monitoring platform with Django, Celery and React. I'm also a CS student at IIIT Nagpur, graduating in 2027, and I like moving around the stack, backend systems mostly, some React, and Solana when I get the chance.
 
@@ -13,46 +13,39 @@ Hey, I'm Yash. Right now I'm interning at SMS Datatech in Tokyo, working on thei
 
 <br/>
 
-## What I'm Building
+## 💻 What I'm Building
 
-### AI
+### 🤖 AI
 
-<div align="center">
+| **Project** | **What it does** | **Stack** | **Links** |
+| --------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------ | -------------------------------------------------------------------------------------------- |
+| **BharatLegal** | Legal tech platform for Indian users with RAG-based document analysis, authentication and LLM-powered features. | Next.js · TypeScript · AI | [Repo](https://github.com/yashvikram30/legalease) |
+| **Ripple** | Change monitoring platform that tracks web content, detects differences and uses LLMs to identify meaningful changes. | Django · Celery · Redis · React · PostgreSQL | Private |
 
-| Project | Description | Stack | Link |
-|:---|:---|:---:|:---:|
-| **BharatLegal** | Legal tech platform for Indian users, RAG based document analysis, real auth, LLM features | `Next.js` `TypeScript` | [Repo](https://github.com/yashvikram30/legalease) |
-| **Ripple** | Change monitoring tool built for my own job hunt, tracks listings, diffs content, flags changes with an LLM | `Django` `Celery` `Redis` `React` `Postgres` | Private |
+---
 
-</div>
+### ⛓️ Blockchain
 
-### Blockchain
+| **Project** | **What it does** | **Stack** | **Links** |
+| --------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------ | -------------------------------------------------------------------------------------------- |
+| **Grafi AI** | Canva-style on-chain design tool with encrypted storage, built for ETHGlobal's Sui track. | Move · Walrus · Seal | [Repo](https://github.com/yashvikram30/grafi-ai) |
+| **tusk-memory** | TypeScript SDK for shared memory between AI agents with permanent report archiving on Walrus. | TypeScript · Sui · Walrus | [Repo](https://github.com/yashvikram30/tusk-memory) |
+| **shout2swap** | Voice-driven token swapping experience built at the Athena × Monad Hacker House. | React · TypeScript · Monad | [Repo](https://github.com/yashvikram30/shout2swap) |
+| **lumina** | Multi-chain crypto portfolio tracker with real-time prices, transaction history and analytics. | Next.js · TypeScript | [Repo](https://github.com/yashvikram30/lumina) |
 
-<div align="center">
+---
 
-| Project | Description | Stack | Link |
-|:---|:---|:---:|:---:|
-| **Grafi AI** | Canva style on-chain design tool with encrypted storage, built for ETHGlobal's Sui track | `Move` `Walrus` `Seal` | [Repo](https://github.com/yashvikram30/grafi-ai) |
-| **tusk-memory** | TypeScript SDK for shared memory between AI agents, plus permanent report archiving on Walrus | `TypeScript` `Sui` `Walrus` | [Repo](https://github.com/yashvikram30/tusk-memory) |
-| **shout2swap** | Built at the Athena x Monad Hacker House, shout into your mic to swap from a pool of random tokens | `React` `TypeScript` `Monad` | [Repo](https://github.com/yashvikram30/shout2swap) |
-| **lumina** | Multi-chain crypto portfolio tracker, real-time prices, transaction history and analytics across Solana, Ethereum, Bitcoin and more | `Next.js` `TypeScript` | [Repo](https://github.com/yashvikram30/lumina) |
+### 🌐 Web
 
-</div>
-
-### Other
-
-<div align="center">
-
-| Project | Description | Stack | Link |
-|:---|:---|:---:|:---:|
-| **modern_portfolio** | A developer portfolio template with animated sections for projects, skills and contact | `Next.js` `Tailwind` | [Repo](https://github.com/yashvikram30/modern_portfolio) |
-| **saas-landing-page** | Animated SaaS landing page template, a quick starting point for product sites | `Next.js` `TypeScript` `Framer Motion` | [Repo](https://github.com/yashvikram30/saas-landing-page) |
-
-</div>
+| **Project** | **What it does** | **Stack** | **Links** |
+| --------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------ | -------------------------------------------------------------------------------------------- |
+| **swiftGO** | Minimalistic and aesthetic landing page for a modern cab-booking service, featuring modern UI, smooth animations and responsive design. | Next.js · TypeScript · Tailwind CSS | [Repo](https://github.com/yashvikram30/swiftGO) |
+| **modern_portfolio** | Developer portfolio template with animated sections for projects, skills and contact. | Next.js · Tailwind | [Repo](https://github.com/yashvikram30/modern_portfolio) |
+| **saas-landing-page** | Animated SaaS landing page template designed as a starting point for product websites. | Next.js · TypeScript · Framer Motion | [Repo](https://github.com/yashvikram30/saas-landing-page) |
 
 <br/>
 
-## Connect
+## 🔗 Connect
 
 <div align="center">
 
@@ -66,7 +59,7 @@ Hey, I'm Yash. Right now I'm interning at SMS Datatech in Tokyo, working on thei
 
 <br/>
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -94,7 +87,7 @@ Hey, I'm Yash. Right now I'm interning at SMS Datatech in Tokyo, working on thei
 
 <br/>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
