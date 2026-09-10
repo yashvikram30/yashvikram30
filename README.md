@@ -6,32 +6,53 @@
 
 Hey, I'm Yash. Right now I'm interning at SMS Datatech in Tokyo, working on their internal monitoring platform with Django, Celery and React. I'm also a CS student at IIIT Nagpur, graduating in 2027, and I like moving around the stack, backend systems mostly, some React, and Solana when I get the chance.
 
-- 🔭 Interning at SMS Datatech in Tokyo, working on itscoco, a Django/Celery/React monitoring platform
-- 🌱 Learning Japanese and figuring out what comes after graduation, hopefully something in Japan
-- 💬 Ask me about Next.js, backend systems or Solana programs
-- 📫 Reach me at yashvikram8250@gmail.com
+- Interning at SMS Datatech in Tokyo, working on itscoco, a Django/Celery/React monitoring platform
+- Learning Japanese and figuring out what comes after graduation, hopefully something in Japan
+- Ask me about Next.js, backend systems or Solana programs
+- Reach me at yashvikram8250@gmail.com
 
 <br/>
 
-## 🚀 What I'm Building
+## What I'm Building
+
+### AI
 
 <div align="center">
 
 | Project | Description | Stack | Link |
 |:---|:---|:---:|:---:|
-| **BharatLegal** | Legal tech platform for Indian users, RAG based document analysis, real auth, LLM features | `Next.js` `TypeScript` | [🔗 Repo](https://github.com/yashvikram30/legalease) |
-| **Ripple** | Change monitoring tool built for my own job hunt, tracks listings, diffs content, flags changes with an LLM | `Django` `Celery` `Redis` `React` `Postgres` | 🔒 Private |
-| **Grafi AI** | Canva style on-chain design tool with encrypted storage, built for ETHGlobal's Sui track | `Move` `Walrus` `Seal` | [🔗 Repo](https://github.com/yashvikram30/grafi-ai) |
-| **tusk-memory** | TypeScript SDK for shared memory between AI agents, plus permanent report archiving on Walrus | `TypeScript` `Sui` `Walrus` | [🔗 Repo](https://github.com/yashvikram30/tusk-memory) |
-| **shout2swap** | Built at the Athena x Monad Hacker House, shout into your mic to swap from a pool of random tokens | `React` `TypeScript` `Monad` | [🔗 Repo](https://github.com/yashvikram30/shout2swap) |
-| **modern_portfolio** | A developer portfolio template with animated sections for projects, skills and contact | `Next.js` `Tailwind` | [🔗 Repo](https://github.com/yashvikram30/modern_portfolio) |
-| **saas-landing-page** | Animated SaaS landing page template, a quick starting point for product sites | `Next.js` `TypeScript` `Framer Motion` | [🔗 Repo](https://github.com/yashvikram30/saas-landing-page) |
+| **BharatLegal** | Legal tech platform for Indian users, RAG based document analysis, real auth, LLM features | `Next.js` `TypeScript` | [Repo](https://github.com/yashvikram30/legalease) |
+| **Ripple** | Change monitoring tool built for my own job hunt, tracks listings, diffs content, flags changes with an LLM | `Django` `Celery` `Redis` `React` `Postgres` | Private |
+
+</div>
+
+### Blockchain
+
+<div align="center">
+
+| Project | Description | Stack | Link |
+|:---|:---|:---:|:---:|
+| **Grafi AI** | Canva style on-chain design tool with encrypted storage, built for ETHGlobal's Sui track | `Move` `Walrus` `Seal` | [Repo](https://github.com/yashvikram30/grafi-ai) |
+| **tusk-memory** | TypeScript SDK for shared memory between AI agents, plus permanent report archiving on Walrus | `TypeScript` `Sui` `Walrus` | [Repo](https://github.com/yashvikram30/tusk-memory) |
+| **shout2swap** | Built at the Athena x Monad Hacker House, shout into your mic to swap from a pool of random tokens | `React` `TypeScript` `Monad` | [Repo](https://github.com/yashvikram30/shout2swap) |
+| **lumina** | Multi-chain crypto portfolio tracker, real-time prices, transaction history and analytics across Solana, Ethereum, Bitcoin and more | `Next.js` `TypeScript` | [Repo](https://github.com/yashvikram30/lumina) |
+
+</div>
+
+### Other
+
+<div align="center">
+
+| Project | Description | Stack | Link |
+|:---|:---|:---:|:---:|
+| **modern_portfolio** | A developer portfolio template with animated sections for projects, skills and contact | `Next.js` `Tailwind` | [Repo](https://github.com/yashvikram30/modern_portfolio) |
+| **saas-landing-page** | Animated SaaS landing page template, a quick starting point for product sites | `Next.js` `TypeScript` `Framer Motion` | [Repo](https://github.com/yashvikram30/saas-landing-page) |
 
 </div>
 
 <br/>
 
-## 🌐 Connect
+## Connect
 
 <div align="center">
 
@@ -45,7 +66,7 @@ Hey, I'm Yash. Right now I'm interning at SMS Datatech in Tokyo, working on thei
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -73,7 +94,7 @@ Hey, I'm Yash. Right now I'm interning at SMS Datatech in Tokyo, working on thei
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
