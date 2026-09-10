@@ -49,9 +49,7 @@ Hey, I'm Yash. Right now I'm interning at SMS Datatech in Tokyo, working on thei
 
 ## GitHub Stats
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashvikram30&theme=merko&hide_border=false)
 ![My streak](https://streak-stats.demolab.com/?user=yashvikram30&theme=merko&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvikram30&theme=merko&layout=compact)
 
 <p align="center">
 <a href="https://buymeacoffee.com/yashvikram"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee"/></a>
