@@ -39,9 +39,11 @@ Hey, I'm Yash. Right now I'm interning at SMS Datatech in Tokyo, working on thei
 
 | **Project** | **What it does** | **Stack** | **Links** |
 | --------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------ | -------------------------------------------------------------------------------------------- |
-| **swiftGO** | Minimalistic and aesthetic landing page for a modern cab-booking service, featuring modern UI, smooth animations and responsive design. | Next.js · TypeScript · Tailwind CSS | [Repo](https://github.com/yashvikram30/swiftGO) |
+| **Nexus** | Digital second brain for saving, organizing and searching content from across the web, with automatic categorization and secure storage. | React · TypeScript · Node.js · Express · MongoDB · JWT | [Repo](https://github.com/yashvikram30/Nexus) |
+| **SwiftGO** | Minimalistic and aesthetic landing page for a modern cab-booking service, featuring modern UI, smooth animations and responsive design. | Next.js · TypeScript · Tailwind CSS | [Repo](https://github.com/yashvikram30/swiftGO) |
 | **modern_portfolio** | Developer portfolio template with animated sections for projects, skills and contact. | Next.js · Tailwind | [Repo](https://github.com/yashvikram30/modern_portfolio) |
 | **saas-landing-page** | Animated SaaS landing page template designed as a starting point for product websites. | Next.js · TypeScript · Framer Motion | [Repo](https://github.com/yashvikram30/saas-landing-page) |
+| **Coursera Backend** | Backend for a course-selling platform handling users, courses and transactions with secure authentication and request validation. | Node.js · Express · MongoDB · JWT · Zod | [Repo](https://github.com/yashvikram30/Coursera-backend) |
 
 <br/>
 
