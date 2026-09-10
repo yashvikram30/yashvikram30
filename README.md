@@ -77,9 +77,6 @@ Hey, I'm Yash. Right now I'm interning at SMS Datatech in Tokyo, working on thei
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yashvikram30&theme=merko&hide_border=false&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashvikram30&theme=merko&hide_border=false&layout=compact" height="165"/>
-
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=yashvikram30&theme=merko&hide_border=false" width="70%"/>
