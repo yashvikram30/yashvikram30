@@ -1,31 +1,15 @@
-<div align="center">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Javascript"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a936f,100:114b5f&height=200&section=header&text=Hey,%20I'm%20Yash&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Tokyo&descSize=18&descAlignY=58" width="100%"/>
+## About Me
 
-<a href="https://github.com/yashvikram30">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=1A936F&center=true&vCenter=true&width=600&lines=Backend+%26+full-stack+developer;Interning+at+SMS+Datatech%2C+Tokyo;CS+student+%40+IIIT+Nagpur;Building+Ripple%2C+BharatLegal+%26+more" alt="Typing SVG" />
-</a>
+Hey, I'm Yash. Right now I'm interning at SMS Datatech in Tokyo, working on their internal monitoring platform with Django, Celery and React. I'm also a CS student at IIIT Nagpur, graduating in 2027, and I like moving around the stack, backend systems mostly, some React, and Solana when I get the chance.
 
-</div>
-
-<br/>
-
-## 👋 About Me
-
-I'm currently interning at **SMS Datatech** in Tokyo, working on their internal monitoring platform with Django, Celery and React. I'm also a CS student at IIIT Nagpur, graduating in 2027, and I like moving around the stack, backend systems mostly, some React, and Solana when I get the chance.
-
-<table>
-<tr>
-<td>
-
-🔭&nbsp; Interning at **SMS Datatech** (Tokyo) — building `itscoco`, a Django/Celery/React monitoring platform
-🌱&nbsp; Learning Japanese and figuring out what comes after graduation, hopefully something in Japan
-💬&nbsp; Ask me about Next.js, backend systems, or Solana programs
-📫&nbsp; Reach me at **yashvikram8250@gmail.com**
-
-</td>
-</tr>
-</table>
+- 🔭 Interning at SMS Datatech in Tokyo, working on itscoco, a Django/Celery/React monitoring platform
+- 🌱 Learning Japanese and figuring out what comes after graduation, hopefully something in Japan
+- 💬 Ask me about Next.js, backend systems or Solana programs
+- 📫 Reach me at yashvikram8250@gmail.com
 
 <br/>
 
