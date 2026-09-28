@@ -3,14 +3,12 @@
 </p>
 
 ## 🚀 About Me
-Hey, I'm Yash 👋
+*Hey, I'm Yash 👋*
 
----
 CS student at IIIT Nagpur (graduating 2027), currently interning as a Software Engineer at SMS Datatech in Tokyo, and working on an internal monitoring platform built with Django, Celery, and React.
 
 Backend systems, Next.js, and smart contracts are what I'm most comfortable with. I like owning a problem end to end: API and data model, on-chain logic, frontend. Most weekends go into hackathons, building on Sui, Solana, and EVM chains.
 
----
 
 <br/>
 
