@@ -10,9 +10,6 @@ CS student at IIIT Nagpur (graduating 2027), currently interning as a Software E
 
 Backend systems, Next.js, and smart contracts are what I'm most comfortable with. I like owning a problem end to end: API and data model, on-chain logic, frontend. Most weekends go into hackathons, building on Sui, Solana, and EVM chains.
 
-
-Site: https://yashvikram.me · Email: yashvikram8250@gmail.com
-
 ---
 
 <br/>
