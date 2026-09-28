@@ -6,11 +6,10 @@
 Hey, I'm Yash 👋
 
 ---
-CS student at IIIT Nagpur (graduating 2027), currently interning as a Software Engineer at SMS Datatech in Tokyo, working on itscoco — an internal monitoring platform built with Django, Celery, and React.
+CS student at IIIT Nagpur (graduating 2027), currently interning as a Software Engineer at SMS Datatech in Tokyo, and working on an internal monitoring platform built with Django, Celery, and React.
 
 Backend systems, Next.js, and smart contracts are what I'm most comfortable with. I like owning a problem end to end: API and data model, on-chain logic, frontend. Most weekends go into hackathons, building on Sui, Solana, and EVM chains.
 
-Contributor to notion-to-md (https://github.com/souvikinator/notion-to-md) (80+ dependent projects), where I built the JSX renderer. Currently learning Japanese and figuring out what comes after graduation.
 
 Site: https://yashvikram.me · Email: yashvikram8250@gmail.com
 
