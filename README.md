@@ -3,13 +3,18 @@
 </p>
 
 ## 🚀 About Me
+Hey, I'm Yash 👋
 
-Hey, I'm Yash. Right now I'm interning at SMS Datatech in Tokyo, working on their internal monitoring platform with Django, Celery and React. I'm also a CS student at IIIT Nagpur, graduating in 2027, and I like moving around the stack, backend systems mostly, some React, and Solana when I get the chance.
+---
+CS student at IIIT Nagpur (graduating 2027), currently interning as a Software Engineer at SMS Datatech in Tokyo, working on itscoco — an internal monitoring platform built with Django, Celery, and React.
 
-- Interning at SMS Datatech in Tokyo, working on itscoco, a Django/Celery/React monitoring platform
-- Learning Japanese and figuring out what comes after graduation, hopefully something in Japan
-- Ask me about Next.js, backend systems or Solana programs
-- Reach me at yashvikram8250@gmail.com
+Backend systems, Next.js, and smart contracts are what I'm most comfortable with. I like owning a problem end to end: API and data model, on-chain logic, frontend. Most weekends go into hackathons, building on Sui, Solana, and EVM chains.
+
+Contributor to notion-to-md (https://github.com/souvikinator/notion-to-md) (80+ dependent projects), where I built the JSX renderer. Currently learning Japanese and figuring out what comes after graduation.
+
+Site: https://yashvikram.me · Email: yashvikram8250@gmail.com
+
+---
 
 <br/>
 
@@ -18,32 +23,34 @@ Hey, I'm Yash. Right now I'm interning at SMS Datatech in Tokyo, working on thei
 ### 🤖 AI
 
 | **Project** | **What it does** | **Stack** | **Links** |
-| --------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------ | -------------------------------------------------------------------------------------------- |
-| **BharatLegal** | Legal tech platform for Indian users with RAG-based document analysis, authentication and LLM-powered features. | Next.js · TypeScript · AI | [Repo](https://github.com/yashvikram30/legalease) |
-| **Ripple** | Change monitoring platform that tracks web content, detects differences and uses LLMs to identify meaningful changes. | Django · Celery · Redis · React · PostgreSQL | Private |
+| --- | --- | --- | --- |
+| **BharatLegal** | Open-source legal platform for Indian users. RAG-based document analysis, a Groq-powered legal chatbot and a case tracker. | Next.js · TypeScript · MongoDB · Groq | [Repo](https://github.com/yashvikram30/bharatlegal) · [Live](https://bharatlegal.vercel.app) |
+| **Ripple** | Change monitoring platform that tracks web content, diffs it, and uses LLMs to flag the changes that matter. | Django · Celery · Redis · React · PostgreSQL | Private |
 
 ---
 
 ### ⛓️ Blockchain
 
 | **Project** | **What it does** | **Stack** | **Links** |
-| --------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------ | -------------------------------------------------------------------------------------------- |
-| **Grafi AI** | Canva-style on-chain design tool with encrypted storage, built for ETHGlobal's Sui track. | Move · Walrus · Seal | [Repo](https://github.com/yashvikram30/grafi-ai) |
-| **tusk-memory** | TypeScript SDK for shared memory between AI agents with permanent report archiving on Walrus. | TypeScript · Sui · Walrus | [Repo](https://github.com/yashvikram30/tusk-memory) |
-| **shout2swap** | Voice-driven token swapping experience built at the Athena × Monad Hacker House. | React · TypeScript · Monad | [Repo](https://github.com/yashvikram30/shout2swap) |
-| **lumina** | Multi-chain crypto portfolio tracker with real-time prices, transaction history and analytics. | Next.js · TypeScript | [Repo](https://github.com/yashvikram30/lumina) |
+| --- | --- | --- | --- |
+| **Legacy** | Digital succession vault. The owner checks in with World ID, and if they go quiet, heirs can claim after a grace and contest window. Non-custodial, so it gates access without ever holding assets. Built at ETHGlobal Tokyo. | Solidity · Foundry · World ID · Next.js | [Repo](https://github.com/yashvikram30/legacy) · [Live](https://legacy-drab-two.vercel.app) |
+| **Grafi AI** | Canva-style design tool with encrypted, decentralized storage. Built for ETHGlobal's Sui track. | Move · Walrus · Seal · Next.js | [Repo](https://github.com/yashvikram30/grafi-ai) |
+| **tusk-memory** | TypeScript SDK for shared memory between AI agents, with permanent report archiving on Walrus. | TypeScript · Sui · Walrus | [Repo](https://github.com/yashvikram30/tusk-memory) |
+| **shout2swap** | Voice-driven token swaps, built at the Athena × Monad Hacker House. You literally shout to swap. | React · TypeScript · Monad | [Repo](https://github.com/yashvikram30/shout2swap) · [Live](https://shout2swap.vercel.app) |
+| **lumina** | Multi-chain crypto portfolio tracker with live prices, transaction history and analytics. | Next.js · TypeScript | [Repo](https://github.com/yashvikram30/lumina) · [Live](https://lumina-portfolio.vercel.app) |
 
 ---
+
 
 ### 🌐 Web
 
 | **Project** | **What it does** | **Stack** | **Links** |
-| --------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------ | -------------------------------------------------------------------------------------------- |
-| **Nexus** | Digital second brain for saving, organizing and searching content from across the web, with automatic categorization and secure storage. | React · TypeScript · Node.js · Express · MongoDB · JWT | [Repo](https://github.com/yashvikram30/Nexus) |
-| **SwiftGO** | Minimalistic and aesthetic landing page for a modern cab-booking service, featuring modern UI, smooth animations and responsive design. | Next.js · TypeScript · Tailwind CSS | [Repo](https://github.com/yashvikram30/swiftGO) |
-| **modern_portfolio** | Developer portfolio template with animated sections for projects, skills and contact. | Next.js · Tailwind | [Repo](https://github.com/yashvikram30/modern_portfolio) |
-| **saas-landing-page** | Animated SaaS landing page template designed as a starting point for product websites. | Next.js · TypeScript · Framer Motion | [Repo](https://github.com/yashvikram30/saas-landing-page) |
-| **Coursera Backend** | Backend for a course-selling platform handling users, courses and transactions with secure authentication and request validation. | Node.js · Express · MongoDB · JWT · Zod | [Repo](https://github.com/yashvikram30/Coursera-backend) |
+| --- | --- | --- | --- |
+| **Nexus** | A second brain for saving and searching tweets, videos and notes, with automatic categorization. | React · TypeScript · Node.js · Express · MongoDB | [Repo](https://github.com/yashvikram30/Nexus) |
+| **Coursera Backend** | Backend for a course-selling platform: users, courses, purchases, JWT auth and Zod validation. | Node.js · Express · MongoDB · JWT · Zod | [Repo](https://github.com/yashvikram30/Coursera-backend) |
+| **SwiftGO** | Landing page for a cab-booking service. Clean UI, smooth animations, fully responsive. | Next.js · TypeScript · Tailwind CSS | [Repo](https://github.com/yashvikram30/swiftGO) · [Live](https://trexigo-eta.vercel.app) |
+| **saas-landing-page** | Animated SaaS landing page template to start product sites from. | Next.js · TypeScript · Framer Motion | [Repo](https://github.com/yashvikram30/saas-landing-page) · [Live](https://saas-landing-page-alpha-rust.vercel.app) |
+| **modern_portfolio** | Developer portfolio template with animated sections for projects, skills and contact. | Next.js · Tailwind | [Repo](https://github.com/yashvikram30/modern_portfolio) · [Live](https://yashvikram.vercel.app) |
 
 <br/>
 
@@ -67,7 +74,7 @@ Hey, I'm Yash. Right now I'm interning at SMS Datatech in Tokyo, working on thei
 
 **Languages**
 <br/>
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Frontend**
 <br/>
@@ -75,15 +82,15 @@ Hey, I'm Yash. Right now I'm interning at SMS Datatech in Tokyo, working on thei
 
 **Backend & Data**
 <br/>
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff)
 
 **Blockchain**
 <br/>
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=fff) ![Anchor](https://img.shields.io/badge/Anchor-%23111111.svg?style=for-the-badge&logo=solana&logoColor=white) ![Solana Web3.js](https://img.shields.io/badge/Solana%20Web3.js-%23000000.svg?style=for-the-badge&logo=solana&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=fff) ![Anchor](https://img.shields.io/badge/Anchor-%23111111.svg?style=for-the-badge&logo=solana&logoColor=white) ![Sui](https://img.shields.io/badge/Sui-4DA2FF?style=for-the-badge&logo=sui&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white) ![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white)
 
 **Tools**
 <br/>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 </div>
 
@@ -93,15 +100,9 @@ Hey, I'm Yash. Right now I'm interning at SMS Datatech in Tokyo, working on thei
 
 <div align="center">
 
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=yashvikram30&theme=merko&hide_border=false" width="70%"/>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <a href="https://buymeacoffee.com/yashvikram"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee"/></a>
 
