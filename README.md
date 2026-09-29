@@ -3,7 +3,7 @@
 </p>
 
 ## 🚀 About Me
-*Hey, I'm Yash 👋*
+**Hey, I'm Yash 👋**
 
 CS student at IIIT Nagpur (graduating 2027), currently interning as a Software Engineer at SMS Datatech in Tokyo, and working on an internal monitoring platform built with Django, Celery, and React.
 
